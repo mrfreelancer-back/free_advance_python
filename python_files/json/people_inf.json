@@ -1,0 +1,16 @@
+{
+    "people": [
+        {
+            "name": "Ali Barkhordar",
+            "phone": "09121209120",
+            "email": ["ali.barkhordar@gmail.com", "a.barkhordar@gmail.com"],
+            "registered": false
+        },
+        {
+            "name": "Alireza Barkhordar",
+            "phone": "09111209110",
+            "email": ["areza.barkhordar@gmail.com", "ar.barkhordar@gmail.com"],
+            "registered": true
+        }
+        ]
+}

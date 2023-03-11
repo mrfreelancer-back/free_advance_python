@@ -1,0 +1,31 @@
+person:
+    name: Ali
+    age: 17
+    gpa: 1.5
+    occupation: student
+    female: false
+    birthday: 2005-10-20 5:11:11 # iso 8601
+    activities:
+      - riding bike
+      - watching TV
+      - listening to music
+    movies:
+      - avengers
+      - star wars
+    friends:
+      - name: alex
+        last_name: barbar
+        age: 99
+      - name: selena
+        last_name: smith
+        age: 101
+      - name: willy
+        last_name: wiliams
+        age: 5
+    address:
+      lines:
+        200 avenue
+        No, 110
+      city: tehran
+      post_code: "0698199078"
+    
