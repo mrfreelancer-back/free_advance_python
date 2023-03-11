@@ -1,0 +1,5 @@
+DEBUG:root:debug!
+INFO:root:info...
+WARNING:root:Warning!!!
+ERROR:root:An error!!!
+CRITICAL:root:oooh! critical!!
